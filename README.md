@@ -1,2 +1,2 @@
 # Articles
-Articles originally created in my Hashnode blog at https://blog.danielfv.com  
+Copies of articles originally created for my blog at https://blog.danielfv.com  
