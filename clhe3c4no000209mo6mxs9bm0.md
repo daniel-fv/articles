@@ -4,7 +4,7 @@ datePublished: Mon May 08 2023 00:14:36 GMT+0000 (Coordinated Universal Time)
 cuid: clhe3c4no000209mo6mxs9bm0
 slug: csharp-variables-and-data-types
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683503903409/fa09a568-892e-4409-965e-440d0016b15d.png
-tags: introduction, csharp, data-structures, data-types, intro-to-programming
+tags: csharp, programming-blogs, programming-languages, data-types, intro-to-programming
 
 ---
 
