@@ -1,5 +1,7 @@
 ---
 title: "Variables and data types in C#"
+seoTitle: "C# Variables and Data Types"
+seoDescription: "Explore C# concepts with an introduction to variables and data types."
 datePublished: Mon May 08 2023 00:14:36 GMT+0000 (Coordinated Universal Time)
 cuid: clhe3c4no000209mo6mxs9bm0
 slug: csharp-variables-and-data-types
